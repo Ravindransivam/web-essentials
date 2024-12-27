@@ -3,12 +3,13 @@ title: World Wide Web
 weight: 1
 ---
 
-# What is the World Wide Web?
-The **World Wide Web (WWW)**, often referred to simply as "the web," is a system of interlinked digital content accessed via the internet. It enables the sharing of information, communication, and interaction across the globe using a common framework. 
+
+**World Wide Web (WWW)**, often referred to simply as "the web," is a system of interlinked digital content accessed via the internet. It enables the sharing of information, communication, and interaction across the globe using a common framework. 
 
 ---
 
-# Key Concepts of the World Wide Web
+
+
 1. **Hypertext**: 
    - The web uses **hypertext** to link documents and resources. Hypertext allows users to navigate between different pieces of content using hyperlinks.
 

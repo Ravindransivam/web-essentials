@@ -4,7 +4,8 @@ weight: 2
 ---
 
 
-**Establishing a Connection**
+
+
 - The browser establishes a **TCP (Transmission Control Protocol)** connection with the server using the resolved IP address.
 - If the site uses HTTPS, a **TLS/SSL handshake** occurs to establish a secure, encrypted connection.
 
