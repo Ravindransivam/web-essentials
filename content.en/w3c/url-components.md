@@ -3,10 +3,10 @@ title: URL Components
 weight: 2
 ---
 
-### **1. URL Input**
+
 When you type a URL (Uniform Resource Locator) into the browser, several steps are taken to interpret and process it:
 
-#### **Components of a URL**
+# Components of a URL
 A URL typically consists of:
 ```
 protocol://hostname:port/path?query#fragment
@@ -21,17 +21,17 @@ For example:
 
 ---
 
-### **2. Parsing the URL**
+# Parsing the URL
 - The browser parses the URL to identify its components.
 - If the protocol is missing, the browser assumes the default (`http://` or `https://`).
 - If the port is omitted, the default port for the protocol is used (`80` for HTTP, `443` for HTTPS).
 
 ---
 
-### **3. IP Address Resolution**
+# IP Address Resolution
 The browser needs to convert the **hostname** (e.g., `www.example.com`) into an **IP address** (e.g., `192.168.1.1`) to locate the server. This process is called **DNS Resolution**.
 
-#### **Steps in IP Address Resolution**
+# Steps in IP Address Resolution
 1. **Browser Cache:**
    - The browser checks its cache for a stored IP address associated with the domain name.
    - If found, it skips further steps.
@@ -62,7 +62,7 @@ The browser needs to convert the **hostname** (e.g., `www.example.com`) into an 
 
 ---
 
-### **4. Final Output**
+# 4. Final Output
 The browser now has the IP address (e.g., `192.168.1.1`) of the server corresponding to the URL. It uses this IP to establish a connection with the server and proceed with the web request.
 
 ---
