@@ -1,6 +1,6 @@
 ---
 title: Establish Connection
-weight: 3
+weight: 2
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: Browser Server Reponse
-weight: 4
+weight: 3
 ---
 
 
