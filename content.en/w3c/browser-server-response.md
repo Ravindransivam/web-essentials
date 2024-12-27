@@ -3,6 +3,8 @@ title: Browser Server Reponse
 weight: 3
 ---
 
+A browser-server connection refers to the communication established between a web browser (client) and a web server to exchange data over the internet. This connection is essential for accessing and rendering web content requested by the user.
+
 
 # Sending the HTTP Request
 - The browser sends an **HTTP request** to the server. This request includes:
