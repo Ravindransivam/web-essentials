@@ -8,6 +8,21 @@ weight: 1
 
 ---
 
+ **Evolution of the World Wide Web(WWW)**
+1. **Web 1.0 (Static Web)**:
+   - Early websites were mostly static and read-only, offering limited interactivity.
+   - Content creators and users were distinct groups.
+
+2. **Web 2.0 (Dynamic & Interactive Web)**:
+   - Introduced user-generated content, social media, and dynamic web applications.
+   - Examples: Facebook, YouTube, Wikipedia.
+
+3. **Web 3.0 (Semantic Web)**:
+   - Focuses on decentralized systems, artificial intelligence, and connecting data in meaningful ways.
+   - Applications include blockchain-based platforms and advanced AI integrations.
+
+---
+
 **Few Components in World Wide Web (WWW):**
 
 1. **Hypertext**: 
@@ -28,19 +43,5 @@ weight: 1
 
 6. **HTML (HyperText Markup Language)**:
    - **HTML** is the standard language for structuring content on the web.
-
----
- **Evolution of the World Wide Web(WWW)**
-1. **Web 1.0 (Static Web)**:
-   - Early websites were mostly static and read-only, offering limited interactivity.
-   - Content creators and users were distinct groups.
-
-2. **Web 2.0 (Dynamic & Interactive Web)**:
-   - Introduced user-generated content, social media, and dynamic web applications.
-   - Examples: Facebook, YouTube, Wikipedia.
-
-3. **Web 3.0 (Semantic Web)**:
-   - Focuses on decentralized systems, artificial intelligence, and connecting data in meaningful ways.
-   - Applications include blockchain-based platforms and advanced AI integrations.
 
 ---
