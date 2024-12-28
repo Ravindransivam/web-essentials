@@ -4,7 +4,7 @@ weight: 2
 ---
 
 
-
+>Web request connection establishment refers to the process by which a client (such as a web browser or application) initiates communication with a server to exchange data.
 
 - The browser establishes a **TCP (Transmission Control Protocol)** connection with the server using the resolved IP address.
 - If the site uses HTTPS, a **TLS/SSL handshake** occurs to establish a secure, encrypted connection.
@@ -70,7 +70,7 @@ If the connection is over **HTTPS**, the TCP handshake is followed by a **TLS ha
 
 ---
 
-# Key Features of TCP in the Handshake
+# Why TCP in the Handshake is important
 - **Reliability:** Sequence numbers ensure that all data is received and reassembled in the correct order.
 - **Error Checking:** Acknowledgments and checksums verify data integrity.
 - **Congestion Control:** TCP adapts to network conditions to avoid overwhelming the network.

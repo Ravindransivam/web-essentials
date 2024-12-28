@@ -4,11 +4,11 @@ weight: 1
 ---
 
 
-**World Wide Web (WWW)**, often referred to simply as "the web," is a system of interlinked digital content accessed via the internet. It enables the sharing of information, communication, and interaction across the globe using a common framework. 
+>**World Wide Web (WWW)**, often referred to simply as "the web," is a system of interlinked digital content accessed via the internet. It enables the sharing of information, communication, and interaction across the globe using a common framework. 
 
 ---
 
-
+**Few Components in World Wide Web (WWW):**
 
 1. **Hypertext**: 
    - The web uses **hypertext** to link documents and resources. Hypertext allows users to navigate between different pieces of content using hyperlinks.
@@ -30,7 +30,7 @@ weight: 1
    - **HTML** is the standard language for structuring content on the web.
 
 ---
-# Evolution of the World Wide Web
+ **Evolution of the World Wide Web(WWW)**
 1. **Web 1.0 (Static Web)**:
    - Early websites were mostly static and read-only, offering limited interactivity.
    - Content creators and users were distinct groups.

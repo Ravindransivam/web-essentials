@@ -18,9 +18,7 @@ The web request flow begins when a user performs an action in their browser, suc
 ---
 
 
-When you type a URL (Uniform Resource Locator) into the browser, several steps are taken to interpret and process it:
-
-# Components of a URL
+# Components of a URL (Uniform Resource Locator)
 A URL typically consists of:
 ```
 protocol://hostname:port/path?query#fragment
