@@ -1,6 +1,6 @@
 ---
 title: Measurements
-weight: 2
+weight: 5
 --- 
 
 > In CSS, **measurements** refer to how we define the size of elements, their spacing, positioning, and other layout-related properties. Understanding CSS units is crucial for controlling how elements are displayed on a webpage.

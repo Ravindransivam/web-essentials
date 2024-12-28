@@ -1,6 +1,6 @@
 ---
 title: Layouts
-weight: 4
+weight: 8
 references:
     links:
         - https://learnlayout.com/

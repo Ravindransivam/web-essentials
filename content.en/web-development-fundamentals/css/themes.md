@@ -1,6 +1,6 @@
 ---
 title: Themes
-weight: 1
+weight: 9
 ---
 
 > In web design, **themes** refer to a set of styles that define the appearance and look of a website. A theme typically includes colors, fonts, layout styles, and other design elements that can be applied across a website to ensure consistency. In CSS, you can create themes by using **CSS variables** (custom properties) to define color schemes, fonts, and other design properties, making it easy to switch between different visual styles (e.g., light mode and dark mode).
