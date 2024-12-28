@@ -79,7 +79,7 @@ The browser now has the IP address (e.g., `192.168.1.1`) of the server correspon
 
 ---
 
-## **Example of IP Resolution**
+**Example of IP Resolution**
 For `https://www.example.com`:
 1. The browser parses the URL and extracts `www.example.com`.
 2. It checks the browser cache, OS cache, and hosts file for the IP.

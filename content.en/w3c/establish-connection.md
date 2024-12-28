@@ -1,19 +1,21 @@
 ---
-title: Establish Connection
+title: Communication Protocol
 weight: 2
 ---
 
 
->Web request connection establishment refers to the process by which a client (such as a web browser or application) initiates communication with a server to exchange data.
+>A **communication protocol** in web requests is a set of standardized rules and procedures that define how data is formatted, transmitted, and interpreted between a client (e.g., a browser or application) and a server over the internet.
 
 - The browser establishes a **TCP (Transmission Control Protocol)** connection with the server using the resolved IP address.
 - If the site uses HTTPS, a **TLS/SSL handshake** occurs to establish a secure, encrypted connection.
 
----The **TCP handshake** is a crucial part of establishing a reliable connection between a client (browser) and a server during a web request. It ensures that both the client and the server are ready to exchange data securely and reliably. Here's how it works step by step:
+---
+
+The **TCP handshake** is a crucial part of establishing a reliable connection between a client (browser) and a server during a web request. It ensures that both the client and the server are ready to exchange data securely and reliably. Here's how it works step by step:
 
 ---
 
-# Purpose of the TCP Handshake
+# Why TCP Handshake ?
 The TCP handshake is a **three-way handshake** used to:
 1. Establish a connection between the client and the server.
 2. Synchronize the sequence numbers used for data transmission.
@@ -70,10 +72,7 @@ If the connection is over **HTTPS**, the TCP handshake is followed by a **TLS ha
 
 ---
 
-# Why TCP in the Handshake is important
+> Why TCP in the Handshake is important
 - **Reliability:** Sequence numbers ensure that all data is received and reassembled in the correct order.
 - **Error Checking:** Acknowledgments and checksums verify data integrity.
 - **Congestion Control:** TCP adapts to network conditions to avoid overwhelming the network.
-
-This process underpins the reliability and security of web communications.
-

@@ -1,9 +1,9 @@
 ---
-title: Browser Server Reponse
+title: Data Exchange
 weight: 3
 ---
 
->A browser-server connection refers to the communication established between a web browser (client) and a web server to exchange data over the internet. This connection is essential for accessing and rendering web content requested by the user.
+>**Data exchange** in a web request refers to the process of transmitting information between a client (such as a browser or application) and a server over the internet. This exchange occurs using web protocols like HTTP or HTTPS and typically follows a request-response model
 
 
 # Sending the HTTP Request
@@ -51,7 +51,7 @@ weight: 3
 
 ---
 
-# Example: Opening a Website
+**Example: Opening a Website**
 1. The user types `www.example.com` in the browser.
 2. DNS resolves it to `192.168.1.1`.
 3. A connection is established, and the browser sends a `GET` request for `/index.html`.
